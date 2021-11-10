@@ -1,7 +1,7 @@
 ---
 blocks:
   - tagline: Tagline
-    headline: Welcome to the Tina Starter!
+    headline: Welcome Caro!
     text: >
       This project is set up to show you the basics of working with Tina. You're
       looking at the landing page, which pulls content from
@@ -9,7 +9,7 @@ blocks:
       them all together in `pages/[filename].tsx`, all based on a schema defined
       in `.tina/schema.ts`.
     actions:
-      - label: Get Started
+      - label: Get Started!
         type: button
         icon: true
         link: /posts
